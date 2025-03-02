@@ -1,0 +1,30 @@
+# Members Directory WordPress Plugin
+
+This plugin provides a simple and customizable way to display a directory of members on your WordPress website. It includes features like:
+
+* **Custom Post Type:** Easily add and manage member profiles with a dedicated post type.
+* **Member Details:** Store and display member information such as name, membership ID, category, and joining year.
+* **Modern Design:** Showcase members with a clean and responsive card-based layout.
+* **Search and Filter:** Allow users to easily find members by name or category.
+* **Pagination:** Display members in paginated format for better organization.
+* **Shortcode:** Use the `[members_grid]` shortcode to display the directory on any page or post.
+
+## Installation
+
+1. Upload the `members-information` folder to the `/wp-content/plugins/` directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+3. Add the `[members_grid]` shortcode to any page or post where you want to display the directory.
+
+## Usage
+
+1. Create member profiles using the "Members" post type in the WordPress admin.
+2. Add member details such as name, membership ID, category, and joining year.
+3. Customize the appearance of the directory by modifying the CSS in `assets/css/members-information.css`.
+
+## Contributing
+
+Contributions are welcome! Feel free to submit pull requests or open issues for any bugs or feature requests.
+
+## License
+
+This plugin is licensed under the GPLv2 or later.
